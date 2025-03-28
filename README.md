@@ -1,2 +1,2 @@
 Continuous integration example with Python
-This is a test.
+Automated unit testing - week 9 practical.
