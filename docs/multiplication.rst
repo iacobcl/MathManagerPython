@@ -1,4 +1,4 @@
 Multiplication
 ==============
 
-More on the multiply method.
+More on the multiply method goes here.
